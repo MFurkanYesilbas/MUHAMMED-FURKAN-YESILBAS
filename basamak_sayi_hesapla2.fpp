@@ -42,7 +42,7 @@ id4
 -reserved 1-
 -reserved 2-
 INPUT
-lütfen sayi giriniz
+lÃ¼tfen sayi giriniz
 a
 
 id5
